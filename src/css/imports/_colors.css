@@ -52,6 +52,10 @@
   background-color: var(--off-white);
 }
 
+.bg-grey-overlay {
+  background-color: var(--grey-overlay);
+}
+
 .bg-grey-1 {
   background-color: var(--grey-1);
 }
