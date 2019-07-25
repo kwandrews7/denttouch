@@ -8,12 +8,8 @@ values:
     imageUrl: "/img/about-shade-grown.jpg"
   - heading: "The Shop"
     text: >
-      Pending text.
+      Our current shop is located in Farmers Branch, TX a few miles north of I-635. However, due to the nature of our work, we may ramp up additional locations from time to time to capacity with the demand. Please check out our contact page for a complete listing of all locations. And as always, don't hesitate to reach out to us personally if you have any questions. Our team is here to help and happy to work with you on getting your vehicle into our shop in the most convenient manner possible. We look forward to servicing your vehicles in our Farmers Branch, Dallas-Fort Worth location.
     imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
-    text: >
-      Pending text.
-    imageUrl: "/img/about-sustainable-farming.jpg"
   - heading: "Our Guarantee"
     text: >
       Pending text.
