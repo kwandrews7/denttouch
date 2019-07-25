@@ -1,0 +1,5 @@
+#postoffice1:before { content: "contact@" }
+#postoffice1:after { content: ".com" }
+
+#switchboardoperator1:before { content: "(469) " }
+#switchboardoperator1:after { content: "8072" }

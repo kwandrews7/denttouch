@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Dent Touch, LLC."
+subtitle:  "Quality auto hail repairs backed by years of experience!"
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
